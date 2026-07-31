@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-I'm **Ifaz** — an Electronic & Electrical Engineering graduate ⚡💻
+I'm **Ifaz** — an Electronic & Electrical Engineering graduate.
 
-Thanks for stopping by my GitHub! 😄
+Thanks for stopping by my GitHub!
 
 ## 🎓 About Me
 
@@ -25,7 +25,7 @@ This experience gave me a valuable insight into how engineering principles are a
 
 I'm currently looking for **Graduate / Junior Engineering opportunities** where I can continue developing my technical skills, contribute to real-world engineering projects, and learn from experienced engineers.
 
-If you're working on something interesting in **electronics/electrical engineering, embedded, control, power systems, project management or related fields**, I'd be happy to connect! 🤝
+If you're working on something interesting in **electronics/electrical engineering, embedded, control, power systems, project management or related fields**, I'd be happy to connect!
 
 ## 🛠️ What I Like Working On
 
@@ -40,9 +40,9 @@ My interests include:
 
 ## 🌍 STEM & Formula Student
 
-I'm also passionate about **STEM outreach** and enjoy helping others get interested in science and engineering.🧪
+I'm also passionate about **STEM outreach** and enjoy helping others get interested in science and engineering.
 
-During university, I also participated in the **Formula Student EV team**, which gave me the opportunity to work as part of a multidisciplinary engineering team and experience the challenges of designing and developing an electric vehicle.⚙️
+During university, I also participated in the **Formula Student EV team**, which gave me the opportunity to work as part of a multidisciplinary engineering team and experience the challenges of designing and developing an electric vehicle.
 
 ---
 
