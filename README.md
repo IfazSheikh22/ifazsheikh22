@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Ifaz** — an Electronic & Electrical Engineering graduate ⚡💻
+I'm **Ifaz** — an Electronic & Electrical Engineering graduate ⚡🧠
 
 Thanks for stopping by my GitHub! 😄
 
@@ -33,13 +33,10 @@ Outside of my professional experience, I enjoy building projects that allow me t
 
 My interests include:
 
-* 🔧 **Embedded Systems**
+* 🧠 **Control Systems**
 * ⚡ **Power Systems**
-* 🎛️ **Control Systems**
-* 🧠 **Neural Networks**
 * 🔌 **PCB Design**
-* 💻 **C Programming**
-* 📐 **MATLAB / Simulink**
+* 💻 **C MATLAB**
 
 ## 🌍 STEM & Formula Student
 
@@ -49,7 +46,7 @@ During university, I also participated in the **Formula Student EV team**, which
 
 ---
 
-### ⚡💻 Thanks for stopping by!
+### ⚡🧠 Thanks for stopping by!
 
 Feel free to explore my repositories and have a look at what I've been building.
 
