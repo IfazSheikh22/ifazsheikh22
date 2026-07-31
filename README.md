@@ -36,7 +36,7 @@ My interests include:
 * 💻 **Control Systems**
 * ⚡ **Power Systems**
 * 🔌 **PCB Design**
-* >_ **C MATLAB** 
+* </> **C MATLAB** 
 
 ## 🌍 STEM & Formula Student
 
