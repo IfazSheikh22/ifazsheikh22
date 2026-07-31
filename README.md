@@ -8,7 +8,7 @@ Thanks for stopping by my GitHub! 😄
 
 I'm a **BEng Electronic & Electrical Engineering graduate from the University of Huddersfield and EngTech from the Institution of Engineering and Technology**.
 
-As part of my degree, I completed an **Industrial Placement at Sellafield Ltd**, working on the **Electrical Distribution Network Upgrade Project** as a **Control & Electrical Design Engineer**. During my placement, I gained hands-on experience across electrical design, protection systems, engineering documentation, and cyber security.
+As part of my degree, I completed an **Industrial Placement at Sellafield Ltd**, working on the **Electrical Distribution Network Upgrade Project** as a **Control & Electrical Design Engineer**.
 
 Some of the work I was involved in included:
 
@@ -20,6 +20,12 @@ Some of the work I was involved in included:
 * 🏭 Working within an engineering environment where **safety, reliability, compliance, and quality** were key considerations
 
 This experience gave me a valuable insight into how engineering principles are applied to complex, safety-critical infrastructure.
+
+## 🎯 What's Next?
+
+I'm currently looking for **Graduate / Junior Engineering opportunities** where I can continue developing my technical skills, contribute to real-world engineering projects, and learn from experienced engineers.
+
+If you're working on something interesting in **electronics/electrical engineering, embedded, control, power systems, project management or related fields**, I'd be happy to connect! 🤝
 
 ## 🛠️ What I Like Working On
 
@@ -40,12 +46,6 @@ My interests include:
 I'm also passionate about **STEM outreach** and enjoy helping others get interested in science and engineering. 🧪⚙️
 
 During university, I also participated in the **Formula Student EV team**, which gave me the opportunity to work as part of a multidisciplinary engineering team and experience the challenges of designing and developing an electric vehicle.
-
-## 🎯 What's Next?
-
-I'm currently looking for **Graduate / Junior Engineering opportunities** where I can continue developing my technical skills, contribute to real-world engineering projects, and learn from experienced engineers.
-
-If you're working on something interesting in **electronics/electrical engineering, embedded, control, power systems, project management or related fields**, I'd be happy to connect! 🤝
 
 ---
 
