@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Ifaz** — an Electronic & Electrical Engineering graduate ⚡🔧
+I'm **Ifaz** — an Electronic & Electrical Engineering graduate ⚡💻
 
 Thanks for stopping by my GitHub! 😄
 
