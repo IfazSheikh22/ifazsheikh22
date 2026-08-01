@@ -6,18 +6,18 @@ Thanks for stopping by my GitHub!
 
 ## 🎓 About Me
 
-I'm a **BEng Electronic & Electrical Engineering graduate from the University of Huddersfield and EngTech from the Institution of Engineering and Technology**.
+I'm a **BEng(Hons) Electronic & Electrical Engineering graduate from the University of Huddersfield and EngTech from the Institution of Engineering and Technology**.
 
 As part of my degree, I completed an **Industrial Placement at Sellafield Ltd**, working on the **Electrical Distribution Network Upgrade Project** as a **Control & Electrical Design Engineer**.
 
 Some of the work I was involved in included:
 
-* ⚡ Developing **Protection Single Line Diagrams** and **Block Cable Diagrams** using AutoCAD
-* 🔌 Performing **cable calculations** for HV substations
-* 🛡️ Developing **cyber security justification reports** for protection relays
-* 💻 Contributing to **Software Delivery Lifecycle** documentation for Programmable Electronic Systems
-* 📊 Helping develop a **Risk Reduction Milestone Tool** to identify and track electrical project activities
-* 🏭 Working within an engineering environment where **safety, reliability, compliance, and quality** were key considerations
+* Developing **Protection Single Line Diagrams** and **Block Cable Diagrams** using AutoCAD
+* Performing **cable calculations** for HV substations
+* Developing **cyber security justification reports** for protection relays
+* Contributing to **Software Delivery Lifecycle** documentation for Programmable Electronic Systems
+* Helping develop a **Risk Reduction Milestone Tool** to identify and track electrical project activities
+* Working within an engineering environment where **safety, reliability, compliance, and quality** were key considerations
 
 This experience gave me a valuable insight into how engineering principles are applied to complex, safety-critical infrastructure.
 
@@ -33,10 +33,10 @@ Outside of my professional experience, I enjoy building projects that allow me t
 
 My interests include:
 
-* 💻 **Control Systems**
-* ⚡ **Power Systems**
-* 🔌 **PCB Design**
-* </> **C MATLAB** 
+* **Control Systems**
+* **Power Systems**
+* **PCB Design**
+* **C MATLAB** 
 
 ## 🌍 STEM & Formula Student
 
