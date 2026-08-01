@@ -40,7 +40,7 @@ My interests include:
 
 ## 🌍 STEM & Formula Student
 
-I'm also passionate about **STEM outreach** and enjoy helping others get interested in science and engineering.
+I'm also passionate about **STEM outreach** and enjoy helping others get interested in engineering.
 
 During university, I also participated in the **Formula Student EV team**, which gave me the opportunity to work as part of a multidisciplinary engineering team and experience the challenges of designing and developing an electric vehicle.
 
