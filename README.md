@@ -12,9 +12,10 @@ As part of my degree, I completed an **Industrial Placement at Sellafield Ltd**,
 
 Some of the work I was involved in included:
 
-* Developing **Protection Single Line Diagrams** and **Block Cable Diagrams** using AutoCAD
+
 * Performing **cable calculations** for HV substations
 * Developing **cyber security justification reports** for protection relays
+* Developing **Protection Single Line Diagrams** and **Block Cable Diagrams** using AutoCAD
 * Contributing to **Software Delivery Lifecycle** documentation for Programmable Electronic Systems
 * Helping develop a **Risk Reduction Milestone Tool** to identify and track electrical project activities
 * Working within an engineering environment where **safety, reliability, compliance, and quality** were key considerations
@@ -36,7 +37,7 @@ My interests include:
 * **Control Systems**
 * **Power Systems**
 * **PCB Design**
-* **C MATLAB** 
+* **C Dev** 
 
 ## 🌍 STEM & Formula Student
 
