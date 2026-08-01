@@ -13,8 +13,8 @@ As part of my degree, I completed an **Industrial Placement at Sellafield Ltd**,
 Some of the work I was involved in included:
 
 
-* Performing **cable calculations** for HV substations
-* Developing **cyber security justification reports** for protection relays
+* Performing **Cable Calculations** for HV substations
+* Developing **Cyber Security Justification Reports** for protection relays
 * Developing **Protection Single Line Diagrams** and **Block Cable Diagrams** using AutoCAD
 * Contributing to **Software Delivery Lifecycle** documentation for Programmable Electronic Systems
 * Helping develop a **Risk Reduction Milestone Tool** to identify and track electrical project activities
