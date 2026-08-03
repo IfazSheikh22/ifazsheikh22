@@ -14,9 +14,6 @@ I'm currently looking for **Graduate / Junior Engineering opportunities** where 
 
 If you're working on something interesting in **embedded, control, power, project management or related fields**, I'd be happy to connect!
 
----
-
-
 <!--
 **IfazSheikh22/ifazsheikh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
