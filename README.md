@@ -1,8 +1,6 @@
 # Hi there! 👋
 
-I'm **Ifaz** — an Electronic & Electrical Engineering graduate.
-
-Thanks for stopping by my GitHub!
+I'm **Ifaz** Thanks for stopping by my GitHub!
 
 ## 🎓 About Me
 
@@ -11,7 +9,6 @@ I'm a **BEng(Hons) Electronic & Electrical Engineering graduate from the Univers
 As part of my degree, I completed an **Industrial Placement at Sellafield Ltd**, working on the **Electrical Distribution Network Upgrade Project** as a **Control & Electrical Design Engineer**.
 
 Some of the work I was involved in included:
-
 
 * Performing **Cable Calculations** for HV substations
 * Developing **Cyber Security Justification Reports** for protection relays
@@ -27,17 +24,6 @@ This experience gave me a valuable insight into how engineering principles are a
 I'm currently looking for **Graduate / Junior Engineering opportunities** where I can continue developing my technical skills, contribute to real-world engineering projects, and learn from experienced engineers.
 
 If you're working on something interesting in **electronics/electrical engineering, embedded, control, power systems, project management or related fields**, I'd be happy to connect!
-
-## 🛠️ What I Like Working On
-
-Outside of my professional experience, I enjoy building projects that allow me to experiment, learn, and sharpen my engineering skills.
-
-My interests include:
-
-* **Control Systems**
-* **Power Systems**
-* **PCB Design**
-* **C Dev** 
 
 ## 🌍 STEM & Formula Student
 
