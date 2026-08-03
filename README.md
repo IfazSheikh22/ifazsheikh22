@@ -12,7 +12,8 @@ I'm into motorsport, and got to combine that with engineering through the Formul
 
 I'm currently looking for **Graduate / Junior Engineering opportunities** where I can continue developing my technical skills, contribute to real-world projects, and learn from experienced engineers.
 
-If you're working on something interesting in **electronics/electrical engineering, embedded, control, power systems, project management or related fields**, I'd be happy to connect!
+If you're working on something interesting in **embedded, control, power, project management or related fields**, I'd be happy to connect!
+
 ---
 
 
