@@ -4,7 +4,7 @@ I'm **Ifaz** - Thanks for stopping by my GitHub!
 
 ## 👷‍♂️ About Me
 
-I'm a Bachelor of Engineering graduate from the University of Huddersfield and EngTech from the Institution of Engineering and Technology. I completed my Industrial Placement at Sellafield Ltd as a Control & Electrical Design Engineer on the Electrical Distribution Network Upgrade Project, working on high voltage cable calculations, developing protection single line diagrams , and cyber security justification for protection relays, developing risk reduction tools and designing software delivery lifecycle for electronic systems.
+A recent Engineering graduate and have previously worked at Sellafield Ltd as an Industrial Placement Control & Electrical Design Engineer on the Electrical Distribution Network Upgrade Project, working on high voltage cable calculations, developing protection single line diagrams , and cyber security justification for protection relays, developing risk reduction tools and designing software delivery lifecycle for electronic systems. I have also participated in Team Hare Formula Student EV team as Test Rig Design Engineer to develop the power electronics and embedded system wiring system.
 
 ## 🎯 What's Next?
 
